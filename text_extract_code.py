@@ -125,7 +125,7 @@ def process_urls(input_file, output_file, pos_words_file, neg_words_file, stop_w
 
 if __name__ == "__main__":
     input_file = "Input.xlsx" 
-    output_file = "output2.xlsx"  
+    output_file = "output.xlsx"  
     pos_words_file = "positive-words.txt"  
     neg_words_file = "negative-words.txt"  
     stop_word_files = [  
