@@ -20,3 +20,15 @@ __Features Include:__
 -> Computes metrics like average word length, sentence length, and syllables per word
 
 -> Outputs results to an Excel file
+
+
+**Input.xlsx should contain a column named URL_ID and URL.**
+
+
+**The script generates output.xlsx with columns like:**
+
+  -> URL ID, URL, Positive Score, Negative Score, Polarity, Subjectivity
+
+  -> Average Sentence Length, Complex Word Percentage, Fog Index
+
+  -> Total Words Count, Syllables per Word, Personal Pronouns, etc.
