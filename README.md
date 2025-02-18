@@ -1,6 +1,6 @@
-#Web Text Analyzer 
+**Web Text Analyzer**
 This project is a web text analysis tool that extracts textual content from web pages and performs various analyses, including sentiment analysis, readability assessment, and linguistic analysis. The results are stored in an Excel file for further processing.
-#Features Include:
+__Features Include:__
 -> Extracts text from web pages using BeautifulSoup
 
 -> Sentiment analysis using TextBlob
